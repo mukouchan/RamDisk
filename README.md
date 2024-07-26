@@ -1,3 +1,5 @@
+!Only works on macOS!
+
 · This thing is as useless as trash.
 
 A virtual disk in RAM that can store data.
